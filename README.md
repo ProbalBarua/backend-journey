@@ -5,7 +5,7 @@
 
 ## 📋 রোডম্যাপ
 
-- [ ] **Phase 1:** HTML/CSS/JS বেসিক ঝালাই (DOM, event, fetch) — ২-৩ দিন
+- [✅] **Phase 1:** HTML/CSS/JS বেসিক ঝালাই (DOM, event, fetch) — ২-৩ দিন
 - [ ] **Phase 2:** Node.js + Express বেসিক (`/hello` + GET/POST) — ৩-৪ দিন
 - [ ] **Phase 3:** Mini Exercise 1 — In-memory To-Do API (GET/POST/DELETE) — ২-৩ দিন
 - [ ] **Phase 4:** MongoDB + Mongoose যোগ করা — ২-৩ দিন
@@ -34,4 +34,4 @@ User login, Meal entry, Bazar entry, Dashboard calculation — সব সহ।
 
 | তারিখ | কী করলাম |
 |-------|----------|
-|       |          |
+| 2025-09-19| Phase 1 শেষ: GitHub Pages-এ fetch API পেজ live করলাম, ১০ user আসলো ✅|
